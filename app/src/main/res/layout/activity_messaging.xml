@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".GeneralUsers.MessagingActivity">
+    tools:context="glirt.motun.glirt2.GeneralUsers.MessagingActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/bar_layout"

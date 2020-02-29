@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment.GchatFragment">
+    tools:context="glirt.motun.glirt2.Fragment.GchatFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"

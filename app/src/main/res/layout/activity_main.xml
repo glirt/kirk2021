@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GeneralUsers.MainActivity">
+    tools:context="glirt.motun.glirt2.GeneralUsers.MainActivity">
 
     <FrameLayout
         android:layout_width="match_parent"

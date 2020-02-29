@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:964172314662:android:699e6e5170e1f83e2d4ee7",
         "android_client_info": {
-          "package_name": "com.example.kirk"
+          "package_name": "glirt.motun.glirt2"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "964172314662-5d7ji2ui1qv5shvrj5tlhaaeaifkh7q7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.kirk",
+            "package_name": "glirt.motun.glirt2",
             "certificate_hash": "223156d7c87626fdd7dd9cdbdef8fd9c45ed9949"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "964172314662-049eg0kg5te3oo0q743fj09b9fgqd5dc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.kirk",
+            "package_name": "glirt.motun.glirt2",
             "certificate_hash": "adda4b46e388fbb4dd27340dcfaf143dc59a46b4"
           }
         },

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".GeneralUsers.jobActivity">
+    tools:context="glirt.motun.glirt2.GeneralUsers.jobActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"

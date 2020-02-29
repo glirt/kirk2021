@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0000"
-    tools:context=".Fragment.GuserFragment">
+    tools:context="glirt.motun.glirt2.Fragment.GuserFragment">
 
     <EditText
         android:layout_width="match_parent"
